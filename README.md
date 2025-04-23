@@ -2,13 +2,8 @@
 
 Welcome to **Fierce & Flawless** — a stylish, modern, and fully responsive website crafted for beauty salons and parlor services. This site is designed to capture attention, showcase services, and provide users with an elegant and intuitive experience.
 
-![Fierce & Flawless Banner](https://github.com/hasnainraza/fierce-flawless/blob/main/assets/img/img.jpg?raw=true)
- 
-
----
-
 ## ✨ Live Demo
-🌐 **[View Live Site](https://your-deployment-link.com)**  
+🌐 **[View Live Site]([https://your-deployment-link.com](https://mdhasnainrazaa.github.io/fierce-flawless-website/))**  
 _(Replace with your deployed link e.g., GitHub Pages, Netlify, Vercel)_
 
 ---
@@ -35,19 +30,6 @@ _(Replace with your deployed link e.g., GitHub Pages, Netlify, Vercel)_
 | `CSS3`      | Styling and layout               |
 | `JavaScript`| Interactivity & DOM manipulation |
 
----
-
-## 🖼️ Screenshots
-
-### 💻 Desktop View
-![Desktop View](https://via.placeholder.com/800x400?text=Desktop+View)
-
-### 📱 Mobile View
-![Mobile View](https://via.placeholder.com/400x800?text=Mobile+View)
-
-_(Replace with actual screenshots of your website for better presentation.)_
-
----
 
 ## 📂 Folder Structure
 
