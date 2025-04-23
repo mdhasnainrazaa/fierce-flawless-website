@@ -1,7 +1,8 @@
 # 💄 Fierce & Flawless – Parlor Website
 
 Welcome to **Fierce & Flawless** — a stylish, modern, and fully responsive website crafted for beauty salons and parlor services. This site is designed to capture attention, showcase services, and provide users with an elegant and intuitive experience.
-![Fierce & Flawless Screenshot](c25a9e22-d3bb-4ff9-9ada-ad7d9a70b0ed.png)
+![Fierce & Flawless Screenshot](![Screenshot 2025-04-24 025640](https://github.com/user-attachments/assets/028ef0b5-fede-4a01-af23-7daa9ea138a8)
+)
 
 ## ✨ Live Demo
 🌐 **[View Live Site]([https://your-deployment-link.com](https://mdhasnainrazaa.github.io/fierce-flawless-website/))**  
